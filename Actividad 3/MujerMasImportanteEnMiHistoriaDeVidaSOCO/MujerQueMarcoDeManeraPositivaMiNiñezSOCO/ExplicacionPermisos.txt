@@ -1,0 +1,11 @@
+NIVELES DE PERMISOS
+
+Clasificamos jerarquicamente en Propietario como el que puede crear permisos establecerlos o modificarlos.
+Grupo al conjunto de usuarios que trabajan dentro del entorno creado por el usuario.
+Resto de usuarios son aquellos que no entran en alguno de los dos anteriores.
+
+PERMISOS PARA ARCHIVOS
+
+Permiso de Lectura, te permite ver el archivo, revisarlo y leerlo pero sin modificarlo.
+Permiso de escritura, permite editar y modificar cualquier archivo ya que cuenta con permisos.
+Permiso de ejecucion, te da la libertad suficiente de hechar a andar los archivos ya que cuentas con todos los permisos para ello.
